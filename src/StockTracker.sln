@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTracker.Frontend", "StockTracker.Frontend\StockTracker.Frontend.csproj", "{42F7D59F-19D0-4181-A0AC-D7156718530B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{9F7A4D9D-5061-4AC6-8643-79E1507DA919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F7A4D9D-5061-4AC6-8643-79E1507DA919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F7A4D9D-5061-4AC6-8643-79E1507DA919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F7D59F-19D0-4181-A0AC-D7156718530B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F7D59F-19D0-4181-A0AC-D7156718530B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F7D59F-19D0-4181-A0AC-D7156718530B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F7D59F-19D0-4181-A0AC-D7156718530B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
