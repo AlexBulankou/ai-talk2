@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTracker.Frontend", "StockTracker.Frontend\StockTracker.Frontend.csproj", "{42F7D59F-19D0-4181-A0AC-D7156718530B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTracker.Frontend", "StockTracker.Frontend2\StockTracker.Frontend.csproj", "{42F7D59F-19D0-4181-A0AC-D7156718530B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
